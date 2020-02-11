@@ -1,4 +1,4 @@
-package dayoon_lee_exercise2;
+package employeeSystem;
 
 import java.util.ArrayList;
 import java.util.List;
